@@ -1,0 +1,31 @@
+<!DOCTYPE css>
+    @font-face {
+      src: url(fonts/FranklinGothic.ttf);
+      font-family: frag;
+    }
+    .outerbox {
+      border-style: solid;
+      border-color: white;
+      border-width: 30px;
+      }
+    .cool-text {
+      font-size: 38px;
+      font-family: frag;
+      text-align: center;
+      }
+    .menu {
+      display: grid;
+      padding: 5px;
+      grid-template-columns: 200px 200px 200px;
+      grid-column-gap: 20px;
+      text-align: center;
+      
+      }
+    .menu-text {
+      font-size: 20px;
+      border-color: #FF8C00;
+      border-width: 5px;
+      border-style: solid;
+      font-family: frag;
+      padding: 5px;
+      }

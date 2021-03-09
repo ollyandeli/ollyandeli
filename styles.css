@@ -19,7 +19,6 @@
       grid-template-columns: 200px 200px 200px;
       grid-column-gap: 20px;
       text-align: center;
-      
       }
     .menu-text {
       font-size: 20px;
@@ -28,4 +27,5 @@
       border-style: solid;
       font-family: frag;
       padding: 5px;
+      background-color: pink;
       }

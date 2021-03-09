@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <meta charset="UTF-8">
+    <title>Videos</title>
+  </head>
+    <body class="outerbox">
+      <h1 class="cool-text">Oly and Eli's Website</h1>
+      <section style="background-color:#7FFFD4">
+        <header style="background-color:#7FFFD4">
+          <nav class="menu">
+            <h4 class="menu-text"><a href="index">Home</a></h4>
+            <h4 class="menu-text">Youtube Videos</h4>
+            <h4 class="menu-text">Recipes</h4>
+            </h4>
+          </nav>
+        </header>
+      <h2 style="background-color:#7FFFD4">
+      Some of our videos
+      </h2>
+      </section>
+      <footer> <a href="https://www.youtube.com/channel/UCWRB8fIy7uJtlHps-j9FcYw">Our Youtube</a>  
+    </body>
+</html>

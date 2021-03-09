@@ -12,7 +12,7 @@
         <header style="background-color:#7FFFD4">
           <nav class="menu">
             <h4 class="menu-text"><a href="index">Home</a></h4>
-            <h4 class="menu-text">Youtube Videos</h4>
+            <h4 class="menu-text"><a href="videos">Youtube Videos</a></h4>
             <h4 class="menu-text">Recipes</h4>
             </h4>
           </nav>

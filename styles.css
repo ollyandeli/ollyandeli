@@ -2,7 +2,16 @@
     @font-face {
       src: url(fonts/FranklinGothic.ttf);
       font-family: frag;
+      }
+    .image {
+      float: right;
+      padding: 0 10px 0 0;
     }
+    .textbox {
+      border-style: solid;
+      border-color: #7FFFD4;
+      border-width: 20px;
+      }
     .outerbox {
       border-style: solid;
       border-color: white;
@@ -34,6 +43,9 @@
       text-align: center;
       color: #EBE618;
       }
+    .txxt {
+      text-align: justify
+      }
     .fb {
       font-size: 80px;
       font-family: sans-serif;
@@ -55,13 +67,5 @@
       font-family: frag;
       padding: 10px 20px;
       background-color: pink;
-      }
-    .title {
-      width: 800px;
-      height: 300px;
-      background-position: center;
-      background-size: 100%;
-      background-image: url(images/title.jpeg);
-      text-align: center;
       }
 

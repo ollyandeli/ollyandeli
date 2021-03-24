@@ -1,4 +1,5 @@
 <!DOCTYPE css>
+    }
     @font-face {
       src: url(fonts/FranklinGothic.ttf);
       font-family: frag;
@@ -8,15 +9,18 @@
       padding: 10px;
     }
     .bgi {
+      margin: auto;
       background-image: url(images/forrest.jpg);
       padding: 5em;
-      
+      max-width: 1250px;
       }
     .textbox {
       border-style: solid;
       border-color: #7FFFD4;
       border-width: 1px;
-      padding: 5px;
+      padding: 15px;
+      font-family: Merriweather Sans;
+      font-size: 20px
       }
     .outerbox {
       border-style: solid;
@@ -28,7 +32,7 @@
       }
     .cool-text {
       font-size: 38px;
-      font-family: sans-serif;
+      font-family: Merriweather Sans;
       text-align: center;
       }
     .menu {
@@ -54,6 +58,7 @@
       }
     .txxt {
       text-align: justify
+      font-family: Merriweather Sans;
       }
     .fb {
       font-size: 80px;
@@ -73,7 +78,7 @@
       border-color: #FF8C00;
       border-width: 5px;
       border-style: solid;
-      font-family: frag;
+      font-family: Merriweather Sans;
       padding: 10px 20px;
       background-color: pink;
       border-radius: 50px;

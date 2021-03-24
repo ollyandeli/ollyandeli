@@ -5,17 +5,26 @@
       }
     .image {
       float: right;
-      padding: 0 10px 0 0;
+      padding: 10px;
     }
+    .bgi {
+      background-image: url(images/forrest.jpg);
+      padding: 5em;
+      
+      }
     .textbox {
       border-style: solid;
       border-color: #7FFFD4;
-      border-width: 20px;
+      border-width: 1px;
+      padding: 5px;
       }
     .outerbox {
       border-style: solid;
       border-color: white;
       border-width: 30px;
+      background-color: white;
+      border-radius: 50px;
+      opacity: .8;
       }
     .cool-text {
       font-size: 38px;
@@ -67,5 +76,7 @@
       font-family: frag;
       padding: 10px 20px;
       background-color: pink;
+      border-radius: 50px;
       }
+      background-repeat: no-repeat;
 

@@ -72,6 +72,9 @@
       text-align: center;
       color: #62DC0C;
       }
+    .bigolpicsbutsmall {
+      max-width: 100%
+      }
     .menu-text {
       font-size: 20px;
       font-weight: bold;

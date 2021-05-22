@@ -14,6 +14,12 @@
       padding: 5em;
       max-width: 1250px;
       }
+    .bgid {
+      margin: auto;
+      background-image: url(images/forrestdark.jpg);
+      padding: 5em;
+      max-width: 1250px;
+      }
     .textbox {
       border-style: solid;
       border-color: #7FFFD4;
@@ -30,6 +36,14 @@
       border-radius: 50px;
       opacity: .8;
       }
+    .outerboxdark {
+      border-style: solid;
+      border-color: black;
+      border-width: 30px;
+      background-color: black;
+      border-radius: 50px;
+      opacity: .7;
+      }
     .cool-text {
       font-size: 38px;
       font-family: Merriweather Sans;
@@ -44,6 +58,12 @@
       font-family: sans-serif;
       text-align: center;
       color: #FFA436;
+      }
+    .elbd {
+      font-size: 60px;
+      font-family: sans-serif;
+      text-align: center;
+      color: white;
       }
     .elb {
       font-size: 60px;

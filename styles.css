@@ -20,6 +20,12 @@
       padding: 5em;
       max-width: 1250px;
       }
+    .bgiw {
+      margin: auto;
+      background-image: url(images/weenyforrest.jpg);
+      padding: 5em;
+      max-width:1250px;
+      }
     .textbox {
       border-style: solid;
       border-color: #7FFFD4;
@@ -27,6 +33,16 @@
       padding: 15px;
       font-family: Merriweather Sans;
       font-size: 20px
+      border-radius: 50px;
+      }
+    .textbox-weeny {
+      border-style: solid;
+      border-color: #fea448;
+      border-width: 1px;
+      padding: 15px;
+      font-family: Merriweather Sans;
+      font-size: 20px
+      border-radius: 50px;
       }
     .outerbox {
       border-style: solid;

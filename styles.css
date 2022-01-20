@@ -10,7 +10,7 @@
     }
     .bgi {
       margin: auto;
-      background-image: url(images/forrestwintey.jpg);
+      background-image: url(images/leaves.jpg);
       padding: 5em;
       max-width: 1250px;
       }
@@ -22,7 +22,7 @@
       }
     .textbox {
       border-style: solid;
-      border-color: #FF6666;
+      border-color: #7FFFD4;
       border-width: 1px;
       padding: 15px;
       font-family: Merriweather Sans;
@@ -53,7 +53,7 @@
       padding: 10px;
       text-align: left;
       }
-    .oly {
+    .Olly {
       font-size: 80px;
       font-family: sans-serif;
       text-align: center;

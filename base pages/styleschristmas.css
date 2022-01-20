@@ -1,0 +1,109 @@
+<!DOCTYPE css>
+    }
+    @font-face {
+      src: url(fonts/FranklinGothic.ttf);
+      font-family: frag;
+      }
+    .image {
+      float: right;
+      padding: 10px;
+    }
+    .bgi {
+      margin: auto;
+      background-image: url(images/forrestwintey.jpg);
+      padding: 5em;
+      max-width: 1250px;
+      }
+    .bgid {
+      margin: auto;
+      background-image: url(images/forrestdark.jpg);
+      padding: 5em;
+      max-width: 1250px;
+      }
+    .textbox {
+      border-style: solid;
+      border-color: #FF6666;
+      border-width: 1px;
+      padding: 15px;
+      font-family: Merriweather Sans;
+      font-size: 20px
+      }
+    .outerbox {
+      border-style: solid;
+      border-color: white;
+      border-width: 30px;
+      background-color: white;
+      border-radius: 50px;
+      opacity: .8;
+      }
+    .outerboxdark {
+      border-style: solid;
+      border-color: black;
+      border-width: 30px;
+      background-color: black;
+      border-radius: 50px;
+      opacity: .7;
+      }
+    .cool-text {
+      font-size: 38px;
+      font-family: Merriweather Sans;
+      text-align: center;
+      }
+    .menu {
+      padding: 10px;
+      text-align: left;
+      }
+    .oly {
+      font-size: 80px;
+      font-family: sans-serif;
+      text-align: center;
+      color: #FFA436;
+      }
+    .elbd {
+      font-size: 60px;
+      font-family: sans-serif;
+      text-align: center;
+      color: white;
+      }
+    .elb {
+      font-size: 60px;
+      font-family: sans-serif;
+      text-align: center;
+      }
+    .efb {
+      font-size: 80px;
+      font-family: sans-serif;
+      text-align: center;
+      color: #EBE618;
+      }
+    .txxt {
+      text-align: justify
+      font-family: Merriweather Sans;
+      }
+    .fb {
+      font-size: 80px;
+      font-family: sans-serif;
+      text-align: center;
+      color: #1947FA;
+      }
+    .eli {
+      font-size: 80px;
+      font-family: sans-serif;
+      text-align: center;
+      color: #62DC0C;
+      }
+    .bigolpicsbutsmall {
+      max-width: 100%
+      }
+    .menu-text {
+      font-size: 20px;
+      font-weight: bold;
+      border-color: #FF8C00;
+      border-width: 5px;
+      border-style: solid;
+      font-family: Merriweather Sans;
+      padding: 10px 20px;
+      background-color: pink;
+      border-radius: 50px;
+      }
+      background-repeat: no-repeat;
